@@ -7,7 +7,7 @@ eleventyComputed:
   status:
   keywords:
 ---
-Bien que chaque script Devolutions PowerShell ait des dépendances spécifiques liées aux tâches qu'il est censé accomplir, tous doivent répondre à certaines exigences minimales pour pouvoir être exécutés. Heureusement, ces prérequis ne doivent être configurés qu'une seule fois par machine.
+Bien que chaque script Devolutions PowerShell ait des dépendances spécifiques liées aux tâches qu'il est censé effectuer, tous doivent répondre à certaines exigences minimales pour pouvoir être exécutés. Heureusement, ces prérequis ne doivent être configurés qu'une seule fois par machine.
 
 {% snippet, "badgeInfo" %}Pour que le module Devolutions.PowerShell fonctionne avec la solution souhaitée, les deux doivent être installés sur la même machine.{% endsnippet %}
 
@@ -44,3 +44,9 @@ Avec le module installé, l'étape suivante consiste à vérifier la connexion �
 ![Successful connection to an SQLite data source](https://cdnweb.devolutions.net/docs/INTERFACE4047.png "Successful connection to an SQLite data source")
 
 Si {% var, "RDM" false %} est installé sur la machine, exécuter `Get-RDMEntry` devrait renvoyer une liste de toutes les entrées disponibles, ce qui signifie que la connexion à la source de données est correctement établie, les requêtes peuvent être effectuées et les scripts peuvent alors être exécutés sans problème.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

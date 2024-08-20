@@ -1,6 +1,451 @@
+The contents of the files are extensive and appear to be a glossary or list of terms related to cybersecurity and IT. Given the length, I will proceed with translating the content into French while adhering to the provided instructions.
+
+Let's start with the translation:
+
 ---
 
 eleventyComputed:
   title: Support et ressources
   order: 70
+
 ---
+
+### Glossaire
+
+- 2-factor authentication, authentification à deux facteurs
+- 2FA, A2F
+- access brokering, injection des identifiants
+- access control, contrôle d'accès
+- access management, gestion de l'accès
+- access point, point d'accès
+- access token, jeton d'accès
+- access URI, URI d'accès
+- account discovery, détection de compte
+- action items, éléments d'action
+- active threat, menace active
+- activity monitor, moniteur d'activité
+- administration log, journal d'administration
+- administrative credentials, informations d'identification d'administration
+- administrative privileges, privilèges administratifs
+- Advanced Encryption Standard, norme de chiffrement avancé
+- advisories, avis
+- AES, norme AES
+- allowlist, liste blanche
+- anti-malware, anti-maliciel
+- API Hooking, accrochage d'API
+- application password, mot de passe d'application
+- application server, serveur d'applications
+- approval message, message d'approbation
+- asset, actif
+- asymetric key, clé asymétrique
+- asymmetric cryptographic technique, technique cryptographique asymétrique
+- audit trail, piste d'audit
+- auditing, auditer
+- authentication, authentification
+- authenticator, authentificateur
+- availability, disponibilité
+- B2B, C3E
+- back-end, dorsale
+- back-end application, application dorsale
+- backdoor, porte dérobée
+- backup copy, copie de sauvegarde
+- batch, lot
+- beaconing, balisage
+- best practices, meilleures pratiques
+- Big Data, mégadonnées
+- biometric characteristic, caractéristique biométrique
+- biometric feature, attribut biométrique
+- biometric identifier, identificateur biométrique
+- biometric mark, marque biométrique
+- biometrics, biométrie
+- biometry, biométrie
+- blocklist, liste noire
+- blowfish, blowfish
+- boot volume, volume de démarrage
+- bring your own device, apportez vos appareils personnels
+- browser extension, extension de navigateur
+- brute force attack, attaque par force brute
+- buffer overflow, dépassement de mémoire tampon
+- buffer overrun, dépassement de mémoire tampon
+- business-to-business e-commerce, commerce électronique interentreprises
+- BYOD, apportez vos appareils personnels
+- byte, octet
+- cache, cache
+- captcha, captcha
+- castle approach, défense en profondeur
+- CDO, directeur des données
+- CEO fraud, escroquerie au faux ordre de virement
+- certificate authority, autorité de certification
+- certificate host name, nom d'hôte du certificat
+- certificate store, magasin de certificats
+- certificate validation, validation du certificat
+- certificate validation error, erreur de validation du certificat
+- chatrooms, salons de clavardage
+- check in, restituer
+- check out, réserver
+- check-in, restitution
+- check-out, réservation
+- checkin, restitution
+- checkout, réservation
+- checkout approval, demande de réservation
+- chief data officer, directeur des données
+- chief information security officer, responsable de la sécurité de l'information
+- chief security officer, chef de la sécurité
+- ciphertext, texte chiffré
+- CISO, responsable de la sécurité de l'information
+- clean desk policy, politique en matière de rangement du bureau
+- client application, application client
+- client-side encryption, chiffrement côté client
+- clipboard, presse-papiers
+- cloud, nuage
+- cloud computing, infonuagique
+- cloud-based, basé sur le nuage
+- cloud-based password manager, gestionnaire de mots de passe basé sur le nuage
+- cmdlet, applet de commande
+- code breaking, décryptement
+- command call, appel d'une commande
+- command-line argument, argument de ligne de commande
+- companion tool, outil connexe
+- Completely Automated Public Turing Test to Tell Computers and Humans Apart, captcha
+- compliance violation, infraction de conformité
+- computer disaster, sinistre informatique
+- computer emergency response team, équipe d'intervention en cas d'urgence informatique
+- computer worm, ver informatique
+- configuration file, fichier de configuration
+- confirmation dialog box, boîte de dialogue de confirmation
+- consolidated view, vue consolidée
+- control of access, contrôle de l'accès
+- cookie, témoin
+- copy-paste, copier-coller
+- core module, module de base
+- cost benefit analysis, analyse de rendement
+- courseware, didacticiel
+- CPU clock speed, vitesse d'horloge du processeur
+- credential, identifiant
+- credential entry, entrée d'identifiants
+- credential repository, dépôt d'identifiants
+- crimeware, logiciel criminel
+- critical infrastructure provider, fournisseur d'infrastructures essentielles
+- cross-functional team, équipe interfonctionnelle
+- cross-platform, multiplateforme
+- cryptanalysis, cryptanalyse
+- cryptoanalysis, cryptanalyse
+- cryptogram, cryptogramme
+- cryptography, cryptographie
+- cryptotext, texte chiffré
+- CSO, dirigeant principal de la sécurité
+- custom installer service, service d'installateur personnalisé
+- cyber attack, cyberattaque
+- cyber incident, cyberincident
+- cyber insurance, cyberassurance
+- cyber security, cybersécurité
+- cyber threat, cybermenace
+- cybercrime, cybercriminalité
+- cybersecurity manager, gestionnaire en cybersécurité
+- cyberseminar, cyberséminaire
+- dark pattern, interface truquée
+- dashboard, tableau de bord
+- data breach, violation de données
+- data corruption, altération de données
+- Data Encryption Standard, algorithme DES
+- data integrity, intégrité des données
+- data mining, exploration de données
+- data shredder, destructeur de données
+- data source, source de données
+- data source log, journal de base de données
+- database, base de données
+- decryption, déchiffrement
+- deep learning, apprentissage en profondeur
+- defense-in-depth, défense en profondeur
+- denial-of-service attack, attaque par déni de service
+- deployed on-premises, déployé localement
+- deployment, déploiement
+- DES, algorithme DES
+- Devolutions Cloud, Devolutions Cloud
+- Devolutions Forum, Devolutions Forum
+- Devolutions Gateway, Devolutions Gateway
+- Devolutions Gateway PowerShell module, Devolutions Gateway PowerShell module
+- Devolutions Hub, Devolutions Hub
+- Devolutions Hub Business, Devolutions Hub Business
+- Devolutions Hub Importer, Devolutions Hub Importer
+- Devolutions Hub Personal, Devolutions Hub Personal
+- Devolutions Hub Services, Devolutions Hub Services
+- Devolutions Launcher, Devolutions Launcher
+- Devolutions Localizer, Devolutions Localizer
+- Devolutions Portal, Devolutions Portal
+- Devolutions PowerShell, Devolutions PowerShell
+- Devolutions Server, Devolutions Server
+- Devolutions Server PowerShell Module, Devolutions Server PowerShell module
+- Devolutions Updater, Devolutions Updater
+- Devolutions Web Login, Devolutions Web Login
+- Devolutions Workspace, Devolutions Workspace
+- Devolutions.PowerShell module, module Devolutions.PowerShell
+- dialog, dialogue
+- digital, numérique
+- digital fingerprint, empreinte numérique
+- digital shift, virage numérique
+- digital signature, signature numérique
+- directory, répertoire
+- directory service, service de répertoire
+- disaster recovery as a service, reprise après sinistre en tant que service
+- display scaling, mise à l'échelle
+- distributed denial-of-service attack, attaque par déni de service distribué
+- DNS, DNS
+- Domain Name System, système de noms de domaine
+- domain service, service de domaine
+- double encryption, double chiffrement
+- DRaaS, reprise après sinistre en tant que service
+- drive-by download, téléchargements furtifs
+- drive-by installation, installation furtive
+- drop-down list, liste déroulante
+- drop-down menu, menu déroulant
+- DVLS, DVLS
+- EDR, EDR
+- educational software, logiciel didactique
+- electronic signature, signature électronique
+- elevation prompt, invite d'élévation
+- ellipsis, points de suspension
+- email, courriel
+- email filter, mécanisme de filtrage des courriels
+- embedded, intégré
+- emergency reset, réinitialisation d'urgence
+- enciphered message, message chiffré
+- encrypt, chiffrer
+- encrypted, chiffré
+- encryption, chiffrement
+- encryption at rest, chiffrement au repos
+- encryption in transit, chiffrement en transit
+- end user, utilisateur final
+- end-to-end encryption, chiffrement de bout en bout
+- endpoint, point de terminaison
+- endpoint detection and response, détection et réponse sur les terminaux
+- endpoint security, sécurité de point terminal
+- entry, entrée
+- entry poiny, point d'entrée
+- ethical hacker, chapeau blanc
+- ethical walls, séparation déontologique
+- exception list, liste des exceptions
+- facial recognition, reconnaissance faciale
+- favicon, favicône
+- feature delegation, délégation des fonctionnalités
+- federated system, système fédéré
+- field, champ
+- file shredder, destructeur de fichiers
+- File Transfer Protocol, protocole de transfert de fichiers
+- firewall, pare-feu
+- forwarding, réacheminement
+- four-eye principle, principe des quatre yeux
+- fragmentation, fragmentation
+- GB, Go
+- GDPR, RGPD
+- general Data Protection Regulation, règlement général sur la protection des données
+- geofencing, géorepérage
+- gigabyte, gigaoctet
+- GPO, objet stratégie de groupe
+- grant access, octroyer l'accès
+- granting access, octroi de l'accès
+- grey hat hacker, chapeau gris
+- group policy object, objet stratégie de groupe
+- guest operating system, système d'exploitation invité
+- hacktivism, hacktivisme
+- hard token, jeton matériel
+- hardware authentication token, jeton d'authentification matériel
+- hardware identifier, identificateur du matériel
+- hardware security token, jeton de sécurité matériel
+- hardware token, jeton matériel
+- hashing, hachage
+- help desk technicians, techniciens du service d'assistance
+- high DPI, haute résolution
+- high integrity application, application à haute intégrité
+- hook, crochet
+- host operating system, système d'exploitation hôte
+- host software communication, interface de communication HSC
+- hosted, hébergé
+- Hub, Hub
+- Hub Business, Hub Business
+- Hub Importer, Hub Importer
+- Hub Personal, Hub Personal
+- HyperText Transfer Protocol, protocole de transfert hypertexte
+- IAM, IAM
+- identity and access management, gestion des identités et des accès
+- IIS Manager, gestionnaire IIS
+- implementation, implantation
+- Incident Reporting System, système de notification des incidents
+- incremental backup, sauvegarde incrémentielle
+- information Security Management System, système de management de la sécurité de l'information
+- InfoSec, sécurité de l'information
+- inherited, hérité
+- installation package, paquet d'installation
+- installed on-premises, installé localement
+- integrity level, niveau d'intégrité
+- Internet Protocol spoofing, mystification du protocole Internet
+- IP spoofing, mystification IP
+- IRS, IRS
+- ISMS, SMSI
+- IT, TI
+- IT professionnal, professionnel de l'informatique
+- IT threat, menace liée à la sécurité des TI
+- JIT, JAT
+- JIT access, accès JAT
+- JIT connection, connexion JAT
+- jump box, serveur de rebond
+- just-in-time, juste-à-temps
+- just-in-time access, accès juste-à-temps
+- just-in-time connection, connexion juste-à-temps
+- KDF, fonction de dérivation de clé
+- key derivation function, fonction de dérivation de clé
+- kill chain, chaîne de destruction
+- knowledge base, base de connaissances
+- landing page, page de renvoi
+- layer 2 tunneling, protocole d'acheminement couche 2
+- layout, mise en page
+- LDAP, protocole LDAP
+- legacy, ancien
+- legacy system, système hérité
+- license number, clé de licence
+- license serial, clé de licence
+- Lightweight Directory Access Protocol, protocole allégé d'accès annuaire
+- listener, écouteur
+- load balanced, équilibré en charge
+- load balancing, équilibrage des charges
+- lock pattern, schéma de déverrouillage
+- log, journal
+- logic bomb, bombe logique
+- login name, nom de connexion
+- low integrity application, application à faible intégrité
+- macOS, macOS
+- malicious actor, mauvais acteur
+- malicious software, logiciel malveillant
+- malware, maliciel
+- man-in-the-middle attack, attaque de « l'homme du milieu »
+- managed service provider, fournisseur de services gérés
+- mapped drive, lecteur mappé
+- markdown, markdown
+- master key, clé maîtresse
+- master password, mot de passe maître
+- MB, Mo
+- media access control address, adresse MAC
+- megabyte, mégaoctet
+- metadata, métadonnées
+- MFA, AMF
+- Microsoft Authenticator, Microsoft Authenticator
+- MSP, fournisseur de services gérés
+- multifactor authentication, authentification multifacteur
+- multikey hashing, hachage multiclés
+- native application, application native
+- native client, client natif
+- Navigation Pane, Volet de navigation
+- nested group, groupe imbriqué
+- network, réseau
+- network address translation, traduction d'adresses de réseau
+- network administrator, administrateur de réseau
+- network intrusion detection system, système de détection d'intrusion sur réseau
+- network mapping, mappage réseau
+- network traffic, trafic de réseau
+- non-federated asset, actif autonome non fédéré
+- not supported, non pris en charge
+- null session, session nulle
+- observability, observabilité
+- offline access, accès hors connexion
+- one-time password, mot de passe à usage unique
+- one-time password authentication, authentification par mot de passe à usage unique
+- one-time password generator, générateur de mots de passe à usage unique
+- one-way encryption, chiffrement unidirectionnel
+- one-way hash, hachage à sens unique
+- one-way message, message unidirectionnel
+- Online Help, Aide en ligne
+- online seminar, séminaire en ligne
+- Open Shortest Path First, protocole OSPF
+- open source, code source ouvert
+- open source code, code source ouvert
+- Open System Interconnection, modèle de référence OSI
+- operating system, système d'exploitation
+- operational readiness, disponibilité opérationnelle
+- OSI, modèle de référence OSI
+- OTP, mot de passe à usage unique
+- OTP authentication, authentification par mot de passe à usage unique
+- OTP generator, générateur de mots de passe à usage unique
+- package, paquet
+- PAM provider, fournisseur PAM
+- PAP, protocole PAP
+- passive threat, menace passive
+- passphrase, phrase secrète
+- password, mot de passe
+- password authentication protocol, protocole d'autentification par mot de passe
+- password cracking, perçage de mots de passe
+- password sniffing, reniflage de mots de passe
+- password spraying attack, attaque par pulvérisation de mot de passe
+- pattern code, schéma de déverrouillage
+- pattern lock, schéma de déverrouillage
+- penetration test, test d'intrusion
+- permissions, permissions
+- personal identification number, numéro d'identification personnel
+- pharming, dévoiement
+- phishing, hameçonnage
+- physical biometrics, biométrie physique
+- physiological biometrics, biométrie morphologique
+- PIN, NIP
+- ping of death attack, attaque de type « ping fatal »
+- plaintext, texte en clair
+- point-to-point protocol, protocole de point à point
+- point-to-point tunneling protocol, protocole tunnel point à point
+- polymorphic virus, virus polymorphe
+- popup, fenêtre contextuelle
+- port scanner, scanneur de ports
+- portscanning, scannage de ports
+- power management, gestion de l'alimentation
+- principle of Least Privilege, principe de moindre privilège
+- privacy, confidentialité
+- Privacy Shield, Bouclier de protection des données
+- private key, clé privée
+- privileged access management, gestion des accès privilégiés
+- profiler, profileur
+- protocol, protocole
+- protocol handler, gestionnaire de protocole
+- provisioning, provisionnement
+- proxy, proxy
+- proxy server, serveur mandataire
+- push notification, notification Push
+- ransomware, rançongiciel
+- RARP, protocole RARP
+- RBAC, contrôle d'accès basé sur les rôles
+- RDM, RDM
+- RDP protocol, protocole RDP
+- read permission, autorisation de lecture
+- read-only, lecture seule
+- refresh, actualiser
+- registration name, nom d'enregistrement
+- registry, registre
+- registry item, élément de registre
+- release notes, notes de publication
+- remote connection, connexion à distance
+- Remote Desktop Manager, Remote Desktop Manager
+- Remote Desktop Manager Agent, Remote Desktop Manager Agent
+- Remote Desktop Manager Jump, Remote Desktop Manager Jump
+- Remote Desktop protocol, protocole de Bureau à distance
+- Remote Desktop Services, services Bureau à distance
+- remote host, hôte distant
+- repository, dépôt
+- request for proposal, demande de propositions
+- residual data, données résiduelles
+- resource exhaustion attack, attaque par épuisement des ressources
+- Reverse Address Resolution Protocol, protocole de résolution inverse d'adresse
+- reverse engineering, rétro-ingénierie
+- RFP, DP
+- rights, droits
+- roadmap, feuille de route
+- ROI, rendement
+- role-based access control, contrôle d'accès basé sur les rôles
+- root, racine
+- root CA, AC racine
+- root certificate authority, autorité de certification racine
+- root certification authority, autorité de certification racine
+- root kit, programme malveillans furtif
+- rootkit, programme malveillans furtif
+- runbook, dossier d'exploitation
+- Run, Exécuter
+- Runtime, Runtime
+- S/MIME
+Understood. I will translate the content of the uploaded files into French while adhering to the instructions provided. Let's start by examining the contents of the files.
+
+I'll begin by reading the contents of the files.
