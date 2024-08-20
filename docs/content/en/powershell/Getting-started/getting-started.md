@@ -1,8 +1,9 @@
 ---
 _schema: default
 eleventyComputed:
-  title:
-  description:
+  title: Getting started
+  description: Although each Devolutions PowerShell script has specific dependencies related to the tasks it is meant to carry out, all must meet certain minimum requirements in order to be executed at all. Luckily, these prerequisites only need to be configured once per machine.
+  order: 20
   status:
   keywords:
 ---
